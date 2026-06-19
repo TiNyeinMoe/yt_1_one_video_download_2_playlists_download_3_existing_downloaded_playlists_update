@@ -12,4 +12,4 @@
 7. to update_or_create_preset_user_data_for_playlists_updater
 8. to exit:
 
-# observe by youself for the rest of it.
+# observe by yourself for the rest of it.
