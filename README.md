@@ -1,4 +1,4 @@
-# For all "music_for_life" developers <childdish but effective>
+# For all "music_for_life" developers (childdish but effective)
 # Fully work on Arch. included python_env_src, plug_and_play i think.
 
 # src link => https://drive.google.com/file/d/1X3gnPXL4RTkByxMnpxM1PFQMXdflga74/view?usp=sharing
