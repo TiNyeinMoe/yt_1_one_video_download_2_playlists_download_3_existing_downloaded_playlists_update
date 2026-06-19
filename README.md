@@ -3,7 +3,6 @@
 
 # src link => https://drive.google.com/file/d/1X3gnPXL4RTkByxMnpxM1PFQMXdflga74/view?usp=sharing
 
-//
 1. one_video_download => insert absolute output file directory path: => insert video url: => 1. audio_download or 2. video_download:
 2. playlist_download => insert absolute output file directory path: => 1. audio_download or 2. video_download: => insert a playlist url:(you are in playlist url inserting mode, if you are done inserting, insert "ext" to exit and start to download all the playlists)
 3. playlist_update => 1. manual_playlist_updater or 2. preset_data_playlist_updater:
@@ -12,6 +11,5 @@
 6. to_delete_the_playlist_updater_datas
 7. to update_or_create_preset_user_data_for_playlists_updater
 8. to exit:
-//
 
 # observe by youself for the rest of it.
